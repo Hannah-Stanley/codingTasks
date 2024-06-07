@@ -29,8 +29,10 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/Hannah-Stanley/codingTasks.git
 
-2. ** Navigate to the project directory **
-cd codingTasks/carInventory
+2. **Navigate to the project directory**
+```bash
+cd codingTasks/CarManagementApp
+```
 
 3. Install server-side dependencies using npm install
 
@@ -65,4 +67,4 @@ List cars older than five years:
 Use the filter options to view the models, make, registration number, and current owner for all cars older than five years
 
 ## Credits 
-4. Developed by Hannah Stanley 
+Developed by Hannah Stanley 

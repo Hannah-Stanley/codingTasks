@@ -14,8 +14,10 @@ This project was created to practice simple backend integration where I created 
    ```bash
    git clone https://github.com/Hannah-Stanley/codingTasks.git
 
-2. ** Navigate to the project directory **
+2. **Navigate to the project directory**
+```bash
 cd codingTasks/carInventory
+```
 
 3. Install server-side dependencies using npm install
 
@@ -31,4 +33,4 @@ Open your web browser and go to http://localhost:3000.
 You should see two messages displayed.
 
 ## Credits 
-4. Developed by Hannah Stanley 
+Developed by Hannah Stanley 
