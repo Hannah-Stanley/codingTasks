@@ -1,12 +1,12 @@
-# # Car Inventory Project
+# Car Inventory Project
 
-# # Table of Contents 
+## Table of Contents 
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Credits](#credits)
 
-# # Description 
+## Description 
 This project was created to practice database interaction with MongoDB and Mongoose. It is a full-stack web application, the back end created using Express and the front end created using React. I created a MongoDB that stores information about the cars in a collection called cars. 
 
 This application allows you to:

@@ -1,12 +1,12 @@
-# # Backend Integration Project
+# Backend Integration Project
 
-# # Table of Contents 
+## Table of Contents 
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Credits](#credits)
 
-# # Description 
+## Description 
 This project was created to practice simple backend integration where I created API endpoints in the backend that were responsible for displaying messages on the front end. 
 
 ## Installation
