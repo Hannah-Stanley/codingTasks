@@ -1,4 +1,4 @@
-** Car Inventory Project **
+# # Car Inventory Project
 
 # # Table of Contents 
 1. [Description](#description)
